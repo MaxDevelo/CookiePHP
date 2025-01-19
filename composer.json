@@ -1,0 +1,17 @@
+{
+    "name": "cokiephp/cookiephp",
+    "description": "CookiePHP: The Rapid Development Framework for PHP - Official Repository",
+    "autoload": {
+        "psr-4": {
+            "Cookie\\Routers\\": "routers/",
+            "Cookie\\Controllers\\": "app/Controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxime Wawrzyniak",
+            "email": "maxime.wawrzy@gmail.com"
+        }
+    ],
+    "require": {}
+}
