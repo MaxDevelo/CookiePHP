@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace Cookie\Routers;
 
+use Cookie\Controllers\ErrorsController;
+
 class Router {
     private array $routes = [];
 
